@@ -1,0 +1,6 @@
+#
+.level=SEVERE
+org.hibernate=SEVERE
+org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl=SEVERE
+org.hibernate.hql.internal.QueryTranslatorFactoryInitiator=SEVERE
+org.hibernate.cfg.Environment=SEVERE
